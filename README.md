@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre!
 
-<!--
-**AleSoaresz/AleSoaresz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, de Brasília-DF, em busca da minha primeira oportunidade na área de tecnologia.
 
-Here are some ideas to get you started:
+## O que eu estou fazendo agora
+- Construindo o **Fome de Quê?**, um app para achar onde comer por tema e por tags (ex.: "hambúrguer com abacaxi"), pensado para o celular.
+- Reforçando meus estudos em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias com as quais já trabalhei
+JavaScript · Node.js · Express · MongoDB · HTML · CSS · Git
+
+## Projetos
+- [Gestão de Documentos](https://github.com/AleSoaresz/Gestao-de-documentos): sistema web para enviar documentos e comentar neles.
+- **Fome de Quê?**: em construção.
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/alexandre-rodrigues-9b8721312)
+- E-mail: alexandre.rds.soares@gmail.com
